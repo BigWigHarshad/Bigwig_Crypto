@@ -1,0 +1,20 @@
+.Benefit_Card{
+    width: 350px;
+    
+}
+
+.Benefit_Card_image{
+    width: 90px;
+    margin: 15px 0px;
+}
+
+.benefit_card_heading{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.benefit_card_description{
+    font-size: 16px;
+    font-weight: 350;
+}
